@@ -1,5 +1,5 @@
-let a = 8
-let b = 5
+var a = prompt("Enter first number", "0");
+var b = prompt("Enter second number", "0");
 document.getElementById("num1-el").textContent=a
 document.getElementById("num2-el").textContent=b
 
